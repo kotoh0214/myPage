@@ -11,6 +11,10 @@ p{
   font-family:'Roboto';
 }
 
+img{
+  width:fit-content;
+}
+
 .container{
 }
 
