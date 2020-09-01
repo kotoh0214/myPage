@@ -16,7 +16,13 @@ p{
 }
 
 .header{
-  background-image: url("../static/img/top.jpg")
+  background-image: url("../static/img/yokohama.jpg");
+  background-position: (0, 0);
+  background:rgba(244, 67, 98, 0.85);
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 .name{
