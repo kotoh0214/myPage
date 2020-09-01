@@ -19,13 +19,17 @@ p{
   background-position: (0, 0);
   text-align: center;
   min-height: 600px;
-  margin: 30px auto;
 }
 
 .header img{
   margin-top: 150px;
+  margin-bottom: 30px;
   width: 10%;
   border-radius: 50%;
+}
+
+.header p{
+  margin: 30px auto;
 }
 
 .header::after{
@@ -35,9 +39,9 @@ p{
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(65, 105, 255, 0.5);;
-    opacity: 0.5;
-    display:block
+    background-color: rgba(65, 105, 255, 0.7);;
+    opacity: 0.7;
+    min-height: 600px;
 }
 
 .name{
