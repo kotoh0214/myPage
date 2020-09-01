@@ -2,6 +2,12 @@ h1{
   font:
 }
 
+p{
+  line-height: 20px;
+  font-size: 16px;
+  font-family:'Roboto';
+}
+
 .top{
   
   background-image: url("./static/img/top.png")
@@ -9,4 +15,16 @@ h1{
 
 .header{
   background-image: url("./static/img/top.png")
+}
+
+.name{
+  font-family:'Kaushan Script';
+  font-size:200%;
+}
+
+@font-face {
+  font-family: 'Kaushan Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://themes.googleusercontent.com/static/fonts/kaushanscript/v1/qx1LSqts-NtiKcLw4N03IFhlQWQpSCpzb2Peu3I-Q34.woff) format('woff');
 }
