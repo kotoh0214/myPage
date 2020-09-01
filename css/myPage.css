@@ -16,9 +16,10 @@ p{
 }
 
 .header{
-  background-image: url("../static/img/yokohama.jpeg");
+  background-image: url("../static/img/yokohama.jpg");
   background-position: (0, 0);
   background:rgba(244, 67, 98, 0.85);
+  text-align: center;
   top: 0;
   bottom: 0;
   left: 0;
