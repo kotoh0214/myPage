@@ -19,6 +19,7 @@ p{
   background-position: (0, 0);
   text-align: center;
   min-height: 600px;
+  margin-bottom: 30px;
 }
 
 .header img{
@@ -42,6 +43,7 @@ p{
     background-color: rgba(65, 105, 255, 0.7);;
     opacity: 0.7;
     min-height: 600px;
+    height: fit-content;
 }
 
 .name{
