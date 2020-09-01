@@ -2,6 +2,7 @@ h1{
   line-height: 40px;
   font-size: 22px;
   font-family:'Roboto';
+  margin: 30px auto;
 }
 
 p{
@@ -19,7 +20,7 @@ p{
   background-position: (0, 0);
   text-align: center;
   min-height: 600px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 .header img{
