@@ -12,11 +12,11 @@ p{
 
 .top{
   
-  background-image: url("/static/img/top.jpg")
+  background-image: url("./static/img/top.jpg")
 }
 
 .header{
-  background-image: url("/static/img/top.jpg")
+  background-image: url("./static/img/top.jpg")
 }
 
 .name{
