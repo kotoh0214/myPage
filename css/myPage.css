@@ -10,9 +10,9 @@ p{
   font-family:'Roboto';
 }
 
-.top{
+.container{
   
-  background-image: url("./static/img/top.jpg")
+  background-image: url("../static/img/top.jpg")
 }
 
 .header{
