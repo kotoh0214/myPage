@@ -19,10 +19,11 @@ p{
   background-position: (0, 0);
   text-align: center;
   min-height: 600px;
+  margin: 30px auto;
 }
 
 .header img{
-  margin: 150px auto;
+  margin-top: 150px;
   width: 10%;
   border-radius: 50%;
 }
