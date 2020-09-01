@@ -21,6 +21,12 @@ p{
   min-height: 600px;
 }
 
+.header.img{
+  margin-top: 150px;
+  width: 10%;
+  border-radius: 50%;
+}
+
 .header::after{
     content: '';
     position: absolute;
@@ -35,7 +41,8 @@ p{
 
 .name{
   font-family:'Kaushan Script';
-  font-size:200%;
+  font-size:400%;
+  color: white;
 }
 
 @font-face {
