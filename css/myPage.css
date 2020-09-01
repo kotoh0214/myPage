@@ -19,7 +19,7 @@ p{
   background-image: url("../static/img/yokohama.jpg");
   background-blend-mode:lighten;
   background-position: (0, 0);
-  background:rgba(65, 105, 255, 0.85);
+  background:rgba(65, 105, 255, 0.5);
   text-align: center;
   top: 0;
   bottom: 0;
