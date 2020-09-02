@@ -12,10 +12,11 @@ p{
 }
 
 img{
-  width:fit-content;
+  width:inherit;
 }
 
 .container{
+  margin-bottom: 300px;
 }
 
 .header{
