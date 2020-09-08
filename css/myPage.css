@@ -48,6 +48,9 @@ img{
     min-height: 600px;
     height: fit-content;
 }
+.body{
+  margin:0 5% 300px 5%;
+}
 
 .name{
   font-family:'Kaushan Script';
