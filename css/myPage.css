@@ -57,6 +57,9 @@ img{
   font-size:400%;
   color: white;
 }
+.note{
+  margin-bottom: 30px;
+}
 
 @font-face {
   font-family: 'Kaushan Script';
