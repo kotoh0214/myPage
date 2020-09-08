@@ -15,9 +15,6 @@ img{
   width:inherit;
 }
 
-.container{
-  margin-bottom: 300px;
-}
 
 .header{
   background-image: url("../static/img/yokohama.jpg");
