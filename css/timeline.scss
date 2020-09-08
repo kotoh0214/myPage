@@ -90,12 +90,6 @@
     margin-bottom: 0;
   }
 
-  @include breakpoint(md) {
-    &:nth-child(even) {
-      flex-direction: row-reverse; // for even blocks -> lay out content from right to left
-    }
-  }
-}
 
 .cd-timeline__img {
   display: flex;
@@ -119,9 +113,6 @@
     margin-left: calc(5% - 30px);
     will-change: transform;
 
-    .cd-timeline__block:nth-child(even) & {
-      margin-right: calc(5% - 30px);
-    }
   }
 }
 
@@ -186,12 +177,6 @@
     width: 100%;
     left: 120%;
     top: 20px;
-
-    .cd-timeline__block:nth-child(even) & {
-      left: auto;
-      right: 120%;
-      text-align: right;
-    }
   }
 }
 
