@@ -58,7 +58,7 @@ img{
     left: 0;
     background-color: rgba(65, 105, 255, 0.7);;
     opacity: 0.7;
-    min-height: 400px;
+    min-height: 600px;
     height: fit-content;
 }
 .name{
