@@ -5,6 +5,7 @@ h1{
   margin: 30px auto;
 }
 
+
 h3{
   line-height: 30px;
   font-size: 20px;
@@ -33,14 +34,14 @@ img{
   background-blend-mode:lighten;
   background-position: (0, 0);
   text-align: center;
-  min-height: 600px;
-  margin-bottom: 50px;
+  min-height: 400px;
+  margin-bottom: 20px;
 }
 
 .header img{
   margin-top: 150px;
   margin-bottom: 30px;
-  width: 10%;
+  width: 30%;
   border-radius: 50%;
 }
 
@@ -57,17 +58,43 @@ img{
     left: 0;
     background-color: rgba(65, 105, 255, 0.7);;
     opacity: 0.7;
-    min-height: 600px;
+    min-height: 400px;
     height: fit-content;
 }
-.body{
-  margin:0 5% 300px 5%;
-}
-
 .name{
   font-family:'Kaushan Script';
-  font-size:400%;
+  font-size:200%;
   color: white;
+}
+
+.body{
+  margin:0 5% 100px 5%;
+}
+
+
+
+
+@media screen and (min-width:768px) {
+  .header img{
+    width: 10%;
+  }
+  .header{
+    min-height: 600px;
+    margin-bottom: 50px;
+  }
+  .header::after{
+      min-height: 600px;
+  }
+  .name{
+    font-size:400%;
+  }
+
+  .body{
+    margin:0 5% 300px 5%;
+  }
+
+
+
 }
 .note{
   margin-bottom: 30px;
