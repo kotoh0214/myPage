@@ -34,7 +34,7 @@ img{
   background-blend-mode:lighten;
   background-position: (0, 0);
   text-align: center;
-  min-height: 400px;
+  min-height: 600px;
   margin-bottom: 20px;
 }
 
@@ -46,7 +46,7 @@ img{
 }
 
 .header p{
-  margin: 30px auto;
+  margin: 10px auto;
 }
 
 .header::after{
